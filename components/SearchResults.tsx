@@ -36,7 +36,8 @@ export function SearchResults({results,onAddToWishlist,totalPrice}: SearchResult
   return(
     <div>
       <h2>{totalPrice}</h2>
-      <List 
+      
+      <List
         height={300}
         rowHeight={30}
         width={900}
