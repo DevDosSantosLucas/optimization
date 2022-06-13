@@ -10,7 +10,7 @@
 - [x] Memo
 - [x] useMemo
 - [x] useCallback
-- [ ] Formatação de dados
-- [ ] Dynamic import(Code Splitting)
-- [ ] Virtualização
-- [ ] Bundle Analyzer
+- [x] Formatação de dados
+- [x] Dynamic import(Code Splitting)
+- [x] Virtualização
+- [x] Bundle Analyzer
